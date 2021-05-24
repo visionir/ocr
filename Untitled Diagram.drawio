@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T05:54:11.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bUJEnDr6_qOM-2skI1EI" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T06:01:32.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JhuYWRE74gk8qYRNQt9Q" version="14.7.0" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="dWlxhuMHz1cYpk0b0Hpj-14" value="Alibaba ECS服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;opacity=10;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="267.5" y="229" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dWlxhuMHz1cYpk0b0Hpj-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dWlxhuMHz1cYpk0b0Hpj-16" target="dWlxhuMHz1cYpk0b0Hpj-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWlxhuMHz1cYpk0b0Hpj-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
           <mxGeometry x="830" y="196.06" width="76.5" height="90" as="geometry" />
@@ -81,6 +84,12 @@
         </mxCell>
         <mxCell id="dWlxhuMHz1cYpk0b0Hpj-38" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dWlxhuMHz1cYpk0b0Hpj-39" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="970" y="198.56" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dWlxhuMHz1cYpk0b0Hpj-40" value="HIS 服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="176.06" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
